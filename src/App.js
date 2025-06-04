@@ -1,12 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import MainTitle from "./components/Introduction/MainTitle"
 
 function App() {
   return (
     <>
-     <h1>
-      
-     </h1>
+     <MainTitle />
     </>
   );
 }
