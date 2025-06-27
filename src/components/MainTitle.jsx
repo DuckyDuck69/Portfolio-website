@@ -8,7 +8,7 @@ export default function Header(){
                     <span className='ml-1 mr-1'>Welcome to</span>
                 <div className='flex-grow border-t-2 border-b-4 border-black h-2'></div>
             </div>
-            <div className='flex items-center justify-center gap-x-*'>
+            <div className='flex items-center justify-center gap-x-* mb-2'>
                 <div className='w-1/6 ml-4 border-black border-16 rounded-md p-2 py-10 '>
                     <img src="../public/drexel-black.png" alt="Drexel's logo "></img>
                 </div>
