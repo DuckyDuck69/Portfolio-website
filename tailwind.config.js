@@ -14,9 +14,11 @@ export default {
         '1/5': '20%',
         '4/5': '80%',
         '1/10': '10%',
-        '2/10': '20%',
         '3/10': '30%', 
-        
+      },
+      fontFamily: {
+        fell: ['"IM Fell English"', 'serif'],
+        caslon: ['"Libre Caslon Text"', 'serif'],
       }
     },
   },
